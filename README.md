@@ -30,7 +30,8 @@ streamlit run kompass.py
 - Die App ist so gestaltet, dass sie sich automatisch an die Inhalte von `wheel_of_life.py` anpasst.
 
 ## Beispiel-Screenshot
-*(Hier könntest du einen Screenshot deiner App einfügen)*
+![{5495BB94-1E98-4F90-B6D5-63BC1B98E5BC}](https://github.com/user-attachments/assets/35b2bd89-9644-4805-94fc-da839c3708ae)
+
 
 ---
 Viel Spaß beim Reflektieren und Visualisieren deines Lebens-Kompasses!
