@@ -29,6 +29,10 @@ streamlit run kompass.py
 - Du kannst die Bereiche und Optionen in `wheel_of_life.py` beliebig anpassen (z.B. weitere Bereiche, andere Gewichtungen, neue Emojis).
 - Die App ist so gestaltet, dass sie sich automatisch an die Inhalte von `wheel_of_life.py` anpasst.
 
+## Online-Demo
+Du kannst das Tool auch direkt online ausprobieren:
+[https://wheelofday.streamlit.app](https://wheelofday.streamlit.app)
+
 ## Beispiel-Screenshot
 ![{5495BB94-1E98-4F90-B6D5-63BC1B98E5BC}](https://github.com/user-attachments/assets/35b2bd89-9644-4805-94fc-da839c3708ae)
 
