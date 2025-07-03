@@ -1,7 +1,11 @@
+import json
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
-from wheel_of_life import wheel_of_life
+
+# wheel_of_life aus JSON laden
+with open("wheel_of_life.json", "r", encoding="utf-8") as f:
+    wheel_of_life = json.load(f)
 
 def page_wheel_of_life():
     st.title("Wheel of Life")
