@@ -1,0 +1,92 @@
+{
+  "Leisure": {
+    "🎮 Played video games": 1,
+    "🎬 Watched movies": 1,
+    "📺 Watched series": 1,
+    "🎵 Listened to music": 1,
+    "🌳 Spent time in nature": 2,
+    "📱 Spent too much time on phone": -2,
+    "😑 Felt bored": -1
+  },
+  "Work & Career": {
+    "💼 Worked productively": 2,
+    "📚 Learned something new": 2,
+    "🎨 Was creative": 2,
+    "✅ Completed projects": 2,
+    "🧘 Relaxed at work": 1,
+    "⏳ Procrastinated": -2,
+    "❌ Made mistakes": -1
+  },
+  "Personal Growth": {
+    "📖 Read": 2,
+    "📚 Learned": 2,
+    "✍️ Wrote": 2,
+    "🎨 Was creative": 2,
+    "🤔 Reflected": 2,
+    "⏰ No time for development": -2,
+    "😕 Dissatisfied with progress": -1
+  },
+  "Well-being": {
+    "🧘 Relaxed": 2,
+    "🧘‍♂️ Meditated": 2,
+    "😴 Slept enough": 2,
+    "🎨 Was creative": 2,
+    "📖 Read": 2,
+    "😰 Felt stressed": -2,
+    "🌙 Slept too little": -1
+  },
+  "Health & Fitness": {
+    "🏃‍♂️ Went jogging": 2,
+    "🧘‍♀️ Did yoga": 2,
+    "🧘 Meditated": 2,
+    "🥗 Ate healthy": 2,
+    "📋 Tracked food": 2,
+    "🍔 Ate fast food": -2,
+    "🛋️ Did no exercise": -1
+  },
+  "Comfort Zone": {
+    "🆕 Tried new things": 2,
+    "💪 Faced challenges": 2,
+    "😨 Overcame fears": 2,
+    "🗣️ Accepted feedback": 2,
+    "🔄 Learned from mistakes": 2,
+    "🙈 Avoided new things": -2,
+    "😟 Withdrew out of fear": -1
+  },
+  "Lived Values": {
+    "🤝 Was honest": 2,
+    "🤲 Was helpful": 2,
+    "🧑‍💼 Took responsibility": 2,
+    "🙏 Acted respectfully": 2,
+    "🌱 Acted sustainably": 2,
+    "🚫 Ignored values": -2,
+    "🙃 Was insincere": -1
+  },
+  "Relationships & Love": {
+    "💋 Gave good morning kiss": 2,
+    "💋 Gave good night kiss": 2,
+    "❤️ Spent time with partner": 2,
+    "💬 Communicated openly": 2,
+    "😄 Had fun together": 2,
+    "💔 Had an argument": -2,
+    "🙄 Paid little attention": -1
+  },
+  "Social Life": {
+    "👫 Met friends": 2,
+    "👨‍👩‍👧‍👦 Met family": 2,
+    "🧑‍🤝‍🧑 Met new people": 2,
+    "🗣️ Had good conversations": 2,
+    "🤗 Helped someone": 2,
+    "😡 Had a fight with friends": -2,
+    "😔 Felt lonely": -1
+  },
+  "Finances": {
+    "🤑 Spent no money": 5,
+    "💳 Paid bills": 2,
+    "💰 Saved money": 2,
+    "📈 Invested money": 2,
+    "💵 Earned money": 2,
+    "📊 Tracked expenses": 2,
+    "💸 Wasted money": -3
+  }
+}

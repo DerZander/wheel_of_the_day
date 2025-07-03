@@ -1,37 +1,42 @@
 # Wheel of Life
 
-Dieses Tool ist ein interaktiver Lebens-Kompass, mit dem du verschiedene Lebensbereiche bewerten kannst. Die Bereiche und ihre Optionen sind in `wheel_of_life.py` definiert. Die App visualisiert deine Auswahl als Radar-Chart.
+This tool is an interactive life compass that lets you assess various areas of your life. The categories and their options are defined in `wheel_of_life.json`. The app visualizes your selections as a radar chart.
 
 ## Features
-- Für jeden Lebensbereich (z.B. Freizeit, Finanzen, Gesundheit) gibt es mehrere Optionen mit positiver oder negativer Gewichtung.
-- Du kannst für jeden Tag oder Zeitraum ankreuzen, was du erlebt oder erreicht hast.
-- Die Punkte werden pro Bereich normiert (maximal 10, negative Werte werden abgezogen).
-- Die Ergebnisse werden als übersichtliches Radardiagramm angezeigt.
+- Each life category (e.g., Leisure, Finances, Health) has several options with positive or negative weighting.
+- You can check what you experienced or achieved for each day or period.
+- Points are normalized per category (maximum 10, negative values are subtracted).
+- Results are displayed as a clear radar chart.
 
-## Dateien
-- **kompass.py**: Streamlit-App, die die Benutzeroberfläche und die Visualisierung bereitstellt.
-- **wheel_of_life.py**: Enthält das Dictionary mit allen Bereichen und deren Optionen (inklusive Emojis und Gewichtungen).
+## Files
+- **kompass.py**: Streamlit app providing the user interface and visualization.
+- **wheel_of_life.json**: Contains all categories and their options (including emojis and weights).
 
 ## Installation
-1. Stelle sicher, dass Python 3.8+ installiert ist.
-2. Installiere die benötigten Pakete:
+1. Make sure Python 3.8+ is installed.
+2. Install the required packages:
    ```
    pip install streamlit plotly
    ```
 
-## Nutzung
-Starte die App mit:
+## Usage
+Start the app with:
 ```
 streamlit run kompass.py
 ```
 
-## Anpassung
-- Du kannst die Bereiche und Optionen in `wheel_of_life.py` beliebig anpassen (z.B. weitere Bereiche, andere Gewichtungen, neue Emojis).
-- Die App ist so gestaltet, dass sie sich automatisch an die Inhalte von `wheel_of_life.py` anpasst.
+## Customization
+- You can freely adjust the categories and options in `wheel_of_life.json` (e.g., add more categories, change weights, add new emojis).
+- The app is designed to automatically adapt to the contents of `wheel_of_life.json`.
 
-## Beispiel-Screenshot
+## Online Demo
+You can also try the tool online:
+[https://wheelofday.streamlit.app](https://wheelofday.streamlit.app)
+
+## Example Screenshot
 ![{5495BB94-1E98-4F90-B6D5-63BC1B98E5BC}](https://github.com/user-attachments/assets/35b2bd89-9644-4805-94fc-da839c3708ae)
 
 
 ---
-Viel Spaß beim Reflektieren und Visualisieren deines Lebens-Kompasses!
+Enjoy reflecting and visualizing your life compass!
+
