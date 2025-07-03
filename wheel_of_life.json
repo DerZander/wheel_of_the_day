@@ -1,5 +1,5 @@
 {
-  "Leisure": {
+  "🎮 Leisure": {
     "🎮 Played video games": 1,
     "🎬 Watched movies": 1,
     "📺 Watched series": 1,
@@ -8,7 +8,7 @@
     "📱 Spent too much time on phone": -2,
     "😑 Felt bored": -1
   },
-  "Work & Career": {
+  "💼 Work & Career": {
     "💼 Worked productively": 2,
     "📚 Learned something new": 2,
     "🎨 Was creative": 2,
@@ -17,7 +17,7 @@
     "⏳ Procrastinated": -2,
     "❌ Made mistakes": -1
   },
-  "Personal Growth": {
+  "🌱 Personal Growth": {
     "📖 Read": 2,
     "📚 Learned": 2,
     "✍️ Wrote": 2,
@@ -26,7 +26,7 @@
     "⏰ No time for development": -2,
     "😕 Dissatisfied with progress": -1
   },
-  "Well-being": {
+  "😊 Well-being": {
     "🧘 Relaxed": 2,
     "🧘‍♂️ Meditated": 2,
     "😴 Slept enough": 2,
@@ -35,7 +35,7 @@
     "😰 Felt stressed": -2,
     "🌙 Slept too little": -1
   },
-  "Health & Fitness": {
+  "💪 Health & Fitness": {
     "🏃‍♂️ Went jogging": 2,
     "🧘‍♀️ Did yoga": 2,
     "🧘 Meditated": 2,
@@ -44,7 +44,7 @@
     "🍔 Ate fast food": -2,
     "🛋️ Did no exercise": -1
   },
-  "Comfort Zone": {
+  "🚀 Comfort Zone": {
     "🆕 Tried new things": 2,
     "💪 Faced challenges": 2,
     "😨 Overcame fears": 2,
@@ -53,7 +53,7 @@
     "🙈 Avoided new things": -2,
     "😟 Withdrew out of fear": -1
   },
-  "Lived Values": {
+  "💖 Lived Values": {
     "🤝 Was honest": 2,
     "🤲 Was helpful": 2,
     "🧑‍💼 Took responsibility": 2,
@@ -62,7 +62,7 @@
     "🚫 Ignored values": -2,
     "🙃 Was insincere": -1
   },
-  "Relationships & Love": {
+  "❤️ Relationships & Love": {
     "💋 Gave good morning kiss": 2,
     "💋 Gave good night kiss": 2,
     "❤️ Spent time with partner": 2,
@@ -71,7 +71,7 @@
     "💔 Had an argument": -2,
     "🙄 Paid little attention": -1
   },
-  "Social Life": {
+  "🤝 Social Life": {
     "👫 Met friends": 2,
     "👨‍👩‍👧‍👦 Met family": 2,
     "🧑‍🤝‍🧑 Met new people": 2,
@@ -80,7 +80,7 @@
     "😡 Had a fight with friends": -2,
     "😔 Felt lonely": -1
   },
-  "Finances": {
+  "💰 Finances": {
     "🤑 Spent no money": 5,
     "💳 Paid bills": 2,
     "💰 Saved money": 2,
