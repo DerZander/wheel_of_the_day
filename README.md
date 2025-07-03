@@ -1,4 +1,4 @@
-# Wheel of Life Kompass
+# Wheel of Life
 
 Dieses Tool ist ein interaktiver Lebens-Kompass, mit dem du verschiedene Lebensbereiche bewerten kannst. Die Bereiche und ihre Optionen sind in `wheel_of_life.py` definiert. Die App visualisiert deine Auswahl als Radar-Chart.
 
