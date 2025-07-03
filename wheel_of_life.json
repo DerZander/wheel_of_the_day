@@ -1,92 +1,92 @@
 {
-  "Freizeit": {
-    "🎮 Konnte zoocken": 1,
-    "🎬 Konnte Filme schauen": 1,
-    "📺 Konnte Serien schauen": 1,
-    "🎵 Konnte Musik hören": 1,
-    "🌳 Konnte Zeit in der Natur verbringen": 2,
-    "📱 Nur am Handy verbracht": -2,
-    "😑 Langeweile gehabt": -1
+  "Leisure": {
+    "🎮 Played video games": 1,
+    "🎬 Watched movies": 1,
+    "📺 Watched series": 1,
+    "🎵 Listened to music": 1,
+    "🌳 Spent time in nature": 2,
+    "📱 Spent too much time on phone": -2,
+    "😑 Felt bored": -1
   },
-  "Arbeit & Karriere": {
-    "💼 Konnte arbeiten": 2,
-    "📚 Konnte lernen": 2,
-    "🎨 Konnte kreativ sein": 2,
-    "✅ Konnte Projekte abschließen": 2,
-    "🧘 Konnte entspannen": 1,
-    "⏳ Arbeit aufgeschoben": -2,
-    "❌ Fehler gemacht": -1
+  "Work & Career": {
+    "💼 Worked productively": 2,
+    "📚 Learned something new": 2,
+    "🎨 Was creative": 2,
+    "✅ Completed projects": 2,
+    "🧘 Relaxed at work": 1,
+    "⏳ Procrastinated": -2,
+    "❌ Made mistakes": -1
   },
-  "Persönliche Wachstum": {
-    "📖 Konnte lesen": 2,
-    "📚 Konnte lernen": 2,
-    "✍️ Konnte schreiben": 2,
-    "🎨 Konnte kreativ sein": 2,
-    "🤔 Konnte reflektieren": 2,
-    "⏰ Keine Zeit für Entwicklung": -2,
-    "😕 Unzufrieden mit Fortschritt": -1
+  "Personal Growth": {
+    "📖 Read": 2,
+    "📚 Learned": 2,
+    "✍️ Wrote": 2,
+    "🎨 Was creative": 2,
+    "🤔 Reflected": 2,
+    "⏰ No time for development": -2,
+    "😕 Dissatisfied with progress": -1
   },
-  "Wohlbefinden": {
-    "🧘 Konnte entspannen": 2,
-    "🧘‍♂️ Konnte meditieren": 2,
-    "😴 Konnte ausreichend schlafen": 2,
-    "🎨 Konnte kreativ sein": 2,
-    "📖 Konnte lesen": 2,
-    "😰 Gestresst gefühlt": -2,
-    "🌙 Zu wenig Schlaf": -1
+  "Well-being": {
+    "🧘 Relaxed": 2,
+    "🧘‍♂️ Meditated": 2,
+    "😴 Slept enough": 2,
+    "🎨 Was creative": 2,
+    "📖 Read": 2,
+    "😰 Felt stressed": -2,
+    "🌙 Slept too little": -1
   },
-  "Gesundheit & Fitness": {
-    "🏃‍♂️ Konnte joggen": 2,
-    "🧘‍♀️ Konnte Yoga machen": 2,
-    "🧘 Konnte meditieren": 2,
-    "🥗 Konnte gesund essen": 2,
-    "📋 Essen getrackt": 2,
-    "🍔 Fast Food gegessen": -2,
-    "🛋️ Kein Sport gemacht": -1
+  "Health & Fitness": {
+    "🏃‍♂️ Went jogging": 2,
+    "🧘‍♀️ Did yoga": 2,
+    "🧘 Meditated": 2,
+    "🥗 Ate healthy": 2,
+    "📋 Tracked food": 2,
+    "🍔 Ate fast food": -2,
+    "🛋️ Did no exercise": -1
   },
-  "Komfortzone": {
-    "🆕 Konnte neue Dinge ausprobieren": 2,
-    "💪 Konnte mich Herausforderungen stellen": 2,
-    "😨 Konnte Ängste überwinden": 2,
-    "🗣️ Konnte Feedback annehmen": 2,
-    "🔄 Konnte aus Fehlern lernen": 2,
-    "🙈 Neues vermieden": -2,
-    "😟 Aus Angst zurückgezogen": -1
+  "Comfort Zone": {
+    "🆕 Tried new things": 2,
+    "💪 Faced challenges": 2,
+    "😨 Overcame fears": 2,
+    "🗣️ Accepted feedback": 2,
+    "🔄 Learned from mistakes": 2,
+    "🙈 Avoided new things": -2,
+    "😟 Withdrew out of fear": -1
   },
-  "Werte gelebt": {
-    "🤝 Ehrlich gewesen": 2,
-    "🤲 Hilfsbereit gewesen": 2,
-    "🧑‍💼 Verantwortung übernommen": 2,
-    "🙏 Respektvoll gehandelt": 2,
-    "🌱 Nachhaltig gehandelt": 2,
-    "🚫 Werte ignoriert": -2,
-    "🙃 Unaufrichtig gewesen": -1
+  "Lived Values": {
+    "🤝 Was honest": 2,
+    "🤲 Was helpful": 2,
+    "🧑‍💼 Took responsibility": 2,
+    "🙏 Acted respectfully": 2,
+    "🌱 Acted sustainably": 2,
+    "🚫 Ignored values": -2,
+    "🙃 Was insincere": -1
   },
-  "Beziehung & Liebe": {
-    "💋 Guten Morgen Kuss gegeben": 2,
-    "💋 Guten Abend Kuss gegeben": 2,
-    "❤️ Zeit mit Partner verbracht": 2,
-    "💬 Offen kommuniziert": 2,
-    "😄 Spaß gehabt": 2,
-    "💔 Streit gehabt": -2,
-    "🙄 Wenig Aufmerksamkeit geschenkt": -1
+  "Relationships & Love": {
+    "💋 Gave good morning kiss": 2,
+    "💋 Gave good night kiss": 2,
+    "❤️ Spent time with partner": 2,
+    "💬 Communicated openly": 2,
+    "😄 Had fun together": 2,
+    "💔 Had an argument": -2,
+    "🙄 Paid little attention": -1
   },
-  "Sozialleben": {
-    "👫 Konnte Freunde treffen": 2,
-    "👨‍👩‍👧‍👦 Konnte Familie treffen": 2,
-    "🧑‍🤝‍🧑 Konnte neue Leute kennenlernen": 2,
-    "🗣️ Gute Gespräche geführt": 2,
-    "🤗 Jemandem geholfen": 2,
-    "😡 Streit mit Freunden": -2,
-    "😔 Einsam gefühlt": -1
+  "Social Life": {
+    "👫 Met friends": 2,
+    "👨‍👩‍👧‍👦 Met family": 2,
+    "🧑‍🤝‍🧑 Met new people": 2,
+    "🗣️ Had good conversations": 2,
+    "🤗 Helped someone": 2,
+    "😡 Had a fight with friends": -2,
+    "😔 Felt lonely": -1
   },
-  "Finanzen": {
-    "🤑 Kein Geld ausgegeben": 5,
-    "💳 Konnte Rechnungen bezahlen": 2,
-    "💰 Konnte Geld sparen": 2,
-    "📈 Konnte Geld investieren": 2,
-    "💵 Konnte Geld verdienen": 2,
-    "📊 Ausgaben getrackt": 2,
-    "💸 Geld verschwendet": -3
+  "Finances": {
+    "🤑 Spent no money": 5,
+    "💳 Paid bills": 2,
+    "💰 Saved money": 2,
+    "📈 Invested money": 2,
+    "💵 Earned money": 2,
+    "📊 Tracked expenses": 2,
+    "💸 Wasted money": -3
   }
 }
